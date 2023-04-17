@@ -1,6 +1,17 @@
 {
     "files.associations": {
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "fstream": "cpp",
+        "stdexcept": "cpp",
+        "ratio": "cpp",
+        "system_error": "cpp",
+        "typeinfo": "cpp",
+        "iosfwd": "cpp",
+        "*.tcc": "cpp",
+        "memory_resource": "cpp",
+        "sstream": "cpp",
+        "type_traits": "cpp",
+        "numeric": "cpp"
     }
 }
